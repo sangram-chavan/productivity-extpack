@@ -31,6 +31,7 @@
         "vsce": ">=1.67.1"
     },
     "extensionPack": [
+        "george2c.ultimate-angular-extension-pack",
         "aaron-bond.better-comments",
         "akamud.vscode-caniuse",
         "alefragnani.project-manager",
